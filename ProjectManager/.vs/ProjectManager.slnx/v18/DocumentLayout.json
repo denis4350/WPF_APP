@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\projectmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|c:\\users\\korya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\college\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\projectmanager\\projectmanager\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\projectmanager\\projectspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\projectspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|c:\\users\\korya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\college\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\projectmanager\\projectmanager\\taskspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\taskspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|c:\\users\\korya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\college\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\projectmanager\\projectmanager\\statisticspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\statisticspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|c:\\users\\korya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\college\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\projectmanager\\projectmanager\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\projectmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|c:\\users\\korya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\college\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\projectmanager\\projectmanager\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|c:\\users\\korya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\college\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\projectmanager\\projectmanager\\statisticspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\statisticspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|c:\\users\\korya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\college\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\projectmanager\\projectmanager\\taskspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\taskspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|c:\\users\\korya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\college\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\projectmanager\\projectmanager\\projectspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\projectspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|c:\\users\\korya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\college\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\projectmanager\\projectmanager\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|c:\\users\\korya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\college\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\projectmanager\\projectmanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\projectmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\projectmanager\\windows\\projectdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\windows\\projectdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\projectmanager\\windows\\projectdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\windows\\projectdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\projectmanager\\models\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\models\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\projectmanager\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3175E8-EF3D-4637-BA0D-A7B65304CB64}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatisticsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\StatisticsPage.xaml",
+              "RelativeDocumentMoniker": "ProjectManager\\StatisticsPage.xaml",
+              "ToolTip": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\StatisticsPage.xaml",
+              "RelativeToolTip": "ProjectManager\\StatisticsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-03T07:29:01.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TasksPage.xaml",
+              "DocumentMoniker": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\TasksPage.xaml",
+              "RelativeDocumentMoniker": "ProjectManager\\TasksPage.xaml",
+              "ToolTip": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\TasksPage.xaml",
+              "RelativeToolTip": "ProjectManager\\TasksPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-03T07:28:22.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\HomePage.xaml",
+              "RelativeDocumentMoniker": "ProjectManager\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\HomePage.xaml",
+              "RelativeToolTip": "ProjectManager\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-03T07:27:10.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ProjectManager\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAgwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T06:53:11.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\SettingsPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\SettingsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\SettingsPage.xaml.cs",
+              "RelativeToolTip": "ProjectManager\\SettingsPage.xaml.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwBsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:29:51.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SettingsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\SettingsPage.xaml",
+              "RelativeDocumentMoniker": "ProjectManager\\SettingsPage.xaml",
+              "ToolTip": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\SettingsPage.xaml",
+              "RelativeToolTip": "ProjectManager\\SettingsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-03T07:29:36.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\ProjectsPage.xaml",
+              "RelativeDocumentMoniker": "ProjectManager\\ProjectsPage.xaml",
+              "ToolTip": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\ProjectsPage.xaml",
+              "RelativeToolTip": "ProjectManager\\ProjectsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-03T06:59:55.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ProjectManager\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\MainWindow.xaml",
+              "RelativeToolTip": "ProjectManager\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-03T06:53:12.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\HomePage.xaml.cs",
+              "RelativeToolTip": "ProjectManager\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:27:30.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TasksPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\TasksPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\TasksPage.xaml.cs",
+              "ToolTip": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\TasksPage.xaml.cs",
+              "RelativeToolTip": "ProjectManager\\TasksPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:28:44.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StatisticsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\StatisticsPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\StatisticsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\StatisticsPage.xaml.cs",
+              "RelativeToolTip": "ProjectManager\\StatisticsPage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:29:18.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\App.xaml.cs",
+              "RelativeToolTip": "ProjectManager\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:22:54.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\ProjectsPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\ProjectsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\ProjectsPage.xaml.cs",
+              "RelativeToolTip": "ProjectManager\\ProjectsPage.xaml.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAwwJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:00:27.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProjectDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\Windows\\ProjectDialog.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\Windows\\ProjectDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\Windows\\ProjectDialog.xaml.cs",
+              "RelativeToolTip": "ProjectManager\\Windows\\ProjectDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T06:56:42.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProjectDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\Windows\\ProjectDialog.xaml",
+              "RelativeDocumentMoniker": "ProjectManager\\Windows\\ProjectDialog.xaml",
+              "ToolTip": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\Windows\\ProjectDialog.xaml",
+              "RelativeToolTip": "ProjectManager\\Windows\\ProjectDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-03T06:56:26.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\App.xaml",
+              "RelativeDocumentMoniker": "ProjectManager\\App.xaml",
+              "ToolTip": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\App.xaml",
+              "RelativeToolTip": "ProjectManager\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-03T06:55:14.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProjectTask.cs",
+              "DocumentMoniker": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\Models\\ProjectTask.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\Models\\ProjectTask.cs",
+              "ToolTip": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\Models\\ProjectTask.cs",
+              "RelativeToolTip": "ProjectManager\\Models\\ProjectTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T06:54:57.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\korya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\COLLEGE\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u041C\\4 \u043A\u0443\u0440\u0441\\03.10.26\\ProjectManager\\ProjectManager\\Models\\Project.cs",
+              "RelativeToolTip": "ProjectManager\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T06:54:36.808Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

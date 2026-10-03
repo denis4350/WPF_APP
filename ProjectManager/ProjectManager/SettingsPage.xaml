@@ -1,0 +1,121 @@
+﻿<Page x:Class="ProjectManager.SettingsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Background="{DynamicResource PageBackground}">
+
+    <ScrollViewer>
+
+        <StackPanel Margin="30">
+
+            <TextBlock Text="Настройки приложения"
+                       FontSize="23"
+                       FontWeight="Bold"/>
+
+            <TextBlock Text="Управление параметрами Project Manager"
+                       Foreground="#7B8491"
+                       Margin="0,5,0,25"/>
+
+            <Border Background="White"
+                    CornerRadius="12"
+                    Padding="25">
+
+                <StackPanel>
+
+                    <!-- ТЕМА -->
+                    <Grid Margin="0,0,0,25">
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="80"/>
+                        </Grid.ColumnDefinitions>
+
+                        <StackPanel>
+
+                            <TextBlock Text="Тёмная тема"
+                                       FontSize="16"
+                                       FontWeight="SemiBold"/>
+
+                            <TextBlock Text="Использовать тёмное оформление приложения"
+                                       Foreground="#7B8491"
+                                       Margin="0,5,0,0"/>
+
+                        </StackPanel>
+
+                        <CheckBox x:Name="ThemeToggle"
+                                  Grid.Column="1"
+                                  HorizontalAlignment="Center"
+                                  VerticalAlignment="Center"
+                                  Checked="ThemeToggle_Checked"
+                                  Unchecked="ThemeToggle_Unchecked"/>
+
+                    </Grid>
+
+                    <!-- УВЕДОМЛЕНИЯ -->
+                    <Grid Margin="0,0,0,25">
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="80"/>
+                        </Grid.ColumnDefinitions>
+
+                        <StackPanel>
+
+                            <TextBlock Text="Уведомления"
+                                       FontSize="16"
+                                       FontWeight="SemiBold"/>
+
+                            <TextBlock Text="Показывать уведомления приложения"
+                                       Foreground="#7B8491"
+                                       Margin="0,5,0,0"/>
+
+                        </StackPanel>
+
+                        <CheckBox x:Name="NotificationsToggle"
+                                  Grid.Column="1"
+                                  IsChecked="True"
+                                  HorizontalAlignment="Center"
+                                  VerticalAlignment="Center"
+                                  Checked="NotificationsToggle_Checked"
+                                  Unchecked="NotificationsToggle_Unchecked"/>
+
+                    </Grid>
+
+                    <!-- АВТОСОХРАНЕНИЕ -->
+                    <Grid>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="80"/>
+                        </Grid.ColumnDefinitions>
+
+                        <StackPanel>
+
+                            <TextBlock Text="Автосохранение"
+                                       FontSize="16"
+                                       FontWeight="SemiBold"/>
+
+                            <TextBlock Text="Автоматически сохранять изменения"
+                                       Foreground="#7B8491"
+                                       Margin="0,5,0,0"/>
+
+                        </StackPanel>
+
+                        <CheckBox x:Name="AutoSaveToggle"
+                                  Grid.Column="1"
+                                  IsChecked="True"
+                                  HorizontalAlignment="Center"
+                                  VerticalAlignment="Center"
+                                  Checked="AutoSaveToggle_Checked"
+                                  Unchecked="AutoSaveToggle_Unchecked"/>
+
+                    </Grid>
+
+                </StackPanel>
+
+            </Border>
+
+        </StackPanel>
+
+    </ScrollViewer>
+
+</Page>
